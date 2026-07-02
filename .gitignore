@@ -1,0 +1,36 @@
+node_modules
+coverage/
+*.lcov
+coverage-final.json
+clover.xml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+.pytest_cache/
+*.egg-info/
+dist/
+
+# Foundry
+out/
+cache/
+broadcast/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Local TODO files (not pushed to GitHub — used to create issues manually)
+**/TODO.md
