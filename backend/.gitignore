@@ -34,3 +34,4 @@ broadcast/
 
 # Local TODO files (not pushed to GitHub — used to create issues manually)
 **/TODO.md
+.DS_Store
